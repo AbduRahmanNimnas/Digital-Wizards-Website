@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'sales.digitalwizards@gmail.com';
+$siteOwnersEmail = 'info@digitalwizardagency.com';
 
 
 if($_POST) {
